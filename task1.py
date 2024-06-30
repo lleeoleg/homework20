@@ -106,7 +106,7 @@ class Car:
             _type_: _description_
         """
         return self.price
-    def new_output_data(sel):
+    def new_output_data(self):
         """_summary_
         """
         print(f"Модель: {self.model}")
